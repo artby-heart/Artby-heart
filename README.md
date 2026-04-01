@@ -17,13 +17,8 @@ Welcome to **Artby-heart** - a growing nail art brand focused on trendy, elegant
 
 ---
 
-## 📸 Featured Work
 
-![Design 1](images/Whatsapp Images 2026-03-15 at 6.30.24 PM(1).jpg)
-![Design 2](images/2.jpg)
-![Design 3](images/3.jpg)
-
-> Explore more designs inside the repository
+> Explore designs inside the repository
 
 ---
 
